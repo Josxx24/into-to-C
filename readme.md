@@ -9,8 +9,8 @@ Primer programa en C
 
 int main()
 {
-	printf("Hello World!\n");
+	printf("Hello Joss!\n");
 
 	return (0);
-}S
+}
 ```
